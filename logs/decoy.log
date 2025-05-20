@@ -24,6 +24,9 @@
 [2025-05-20 16:15:19] INFO: Processing quantum operation: entangle
 [2025-05-20 16:15:20] INFO: Quantum operation completed successfully
 
+=== HIDDEN MESSAGE (ROT13) ===
+Gur xrl vf va gur svefg pbzzvg
+
 === DECOY INFORMATION ===
 This log file contains false information and decoy keys.
 The real system logs are quantum-encrypted.
