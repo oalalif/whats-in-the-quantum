@@ -22,11 +22,13 @@ node_modules/
 # Build directories
 /dist
 /build
+/out
 
 # Temporary files
 *.tmp
 *.temp
 *.bak
+*.log
 
 # Debug logs (non-CTF)
 npm-debug.log*
@@ -39,6 +41,7 @@ yarn-error.log*
 # IDE specific files
 *.swp
 *.swo
+*~
 
 # OS generated files
 .Spotlight-V100
@@ -46,9 +49,99 @@ yarn-error.log*
 ehthumbs.db
 
 # Python cache
-*.pyc
+*.py[cod]
 __pycache__/
 .pytest_cache/
+*.pyc
+
+# Java
+*.class
+*.war
+*.ear
+
+# Virtual Environment
+venv/
+ENV/
+
+# IDE specific
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# System Files
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Local development
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build output
+.next/
+out/
+
+# Debug logs
+debug.log
+
+# Local development files
+.local-*
+
+# IDE specific files
+*.swp
+*.swo
+*~
+
+
+# OS generated files
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+.DS_Store
+
+# Python cache
+*.py[cod]
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Java
+*.class
+*.war
+*.ear
+
+# Virtual Environment
+venv/
+ENV/
+
+# IDE specific
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# System Files
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Local development
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build output
+.next/
+out/
+
+# Debug logs
+debug.log
 
 # Keep CTF-relevant files
 !logs/quantum_logs/simulation.log

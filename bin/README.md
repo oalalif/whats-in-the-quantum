@@ -1,22 +1,46 @@
 # ORION CORE BINARY
 
-This is a compiled binary containing the core functionality of the Orion Quantum Vault.
+This directory contains the compiled binaries for the Orion Quantum Vault system.
 
-## SECURITY NOTICE
-- This binary contains sensitive quantum algorithms
-- Reverse engineering is strictly prohibited
-- Unauthorized access will be logged and reported
+## BINARY INFORMATION
+- **File**: orion_core.exe
+- **Version**: 4.3.1
+- **Build Date**: 2025-05-20
+- **Architecture**: x86_64
 
-## DEBUGGING INFORMATION
-To assist with debugging, you may need to analyze the binary's strings:
+## USAGE
 ```bash
-strings orion_core.exe | grep -i "hidden\|secret\|key"
+./orion_core [options]
 ```
 
-## HINT
-The sixth segment is hidden within the binary's code section.
-Look for patterns that stand out from typical machine code.
-The answer is in the core of the binary's functionality.
+### Options:
+- `--help` - Show help message
+- `--version` - Display version information
+- `--config <file>` - Specify configuration file
 
-<!-- SEGMENT_6: c0d3_0f_th3_c0r3_ -->
+## SECURITY CONSIDERATIONS
+- This binary contains proprietary algorithms
+- Distribution is restricted to authorized personnel only
+- All access is logged and monitored
+
+## DEBUGGING
+For debugging purposes, you can use standard tools:
+```bash
+# View basic binary information
+file orion_core.exe
+
+# View strings in the binary
+strings orion_core.exe | less
+
+# View binary dependencies
+ldd orion_core.exe
+```
+
+## VERSION HISTORY
+- v4.3.1 (2025-05-20): Security updates and performance improvements
+- v4.3.0 (2025-05-15): Initial stable release
+
+## NOTES
+- This binary is part of the Orion Quantum Vault system
+- Report any issues to the development team
 <!-- This is a decoy - the real segment is XOR-encoded in the binary's data section -->
