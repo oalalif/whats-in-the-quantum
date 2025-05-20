@@ -1,0 +1,28 @@
+=== ORION QUANTUM ARCHIVE - TOP SECRET ===
+
+WARNING: UNAUTHORIZED ACCESS WILL COLLAPSE THE WAVEFUNCTION
+
+=== SYSTEM RECOVERY NOTE ===
+The primary access key is fragmented across the quantum archive.
+Search for the tag: #QUANTUM_KEY in the version history.
+The answer lies in the first commit message.
+
+=== DECOY INFORMATION ===
+This map is a decoy. The real treasure is elsewhere.
+Look for patterns in the metadata.
+The answer is hidden in plain sight.
+
+=== HINT ===
+The seventh segment is hidden in the metadata.
+Check the image files with exiftool.
+The answer is in the system diagram's metadata.
+
+=== QUANTUM PUZZLE ===
+The diagram shows the path to the treasure:
+1. Start at the quantum core
+2. Follow the entangled particles
+3. Decode the message in the noise
+4. The answer is in the metadata
+
+[2025-05-20 10:37:00] SYSTEM: MAP INTEGRITY VERIFIED - QUANTUM ENCRYPTION ACTIVE
+[REDACTED]
