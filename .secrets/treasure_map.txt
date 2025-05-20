@@ -25,4 +25,4 @@ The diagram shows the path to the treasure:
 4. The answer is in the metadata
 
 [2025-05-20 10:37:00] SYSTEM: MAP INTEGRITY VERIFIED - QUANTUM ENCRYPTION ACTIVE
-[REDACTED]
+1n_th3_m3t4d4t4
