@@ -1,0 +1,41 @@
+# Repository configuration
+name: Quantum Circuit Simulator
+description: A high-performance quantum circuit simulator for educational and research purposes
+homepage: https://github.com/oalalif/whats-in-the-quantum
+topics:
+  - quantum-computing
+  - quantum-algorithms
+  - python
+  - simulation
+  - quantum-mechanics
+  - research
+  - education
+  - quantum-circuit
+  - quantum-simulation
+  - physics
+
+# Repository settings
+has_issues: true
+has_projects: true
+has_wiki: false
+has_downloads: true
+has_discussions: true
+
+# Features
+is_template: false
+auto_init: false
+allow_squash_merge: true
+allow_merge_commit: true
+allow_rebase_merge: true
+delete_branch_on_merge: true
+
+# Security
+vulnerability_alerts: true
+
+# Community profile
+default_branch: whats-quantum
+
+# Social preview
+twitter_username: ""
+company: "Quantum Research Labs"
+email: "research@quantum.example.com"

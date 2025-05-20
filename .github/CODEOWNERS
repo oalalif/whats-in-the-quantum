@@ -1,0 +1,11 @@
+# Default owners for everything in the repo
+* @oalalif
+
+# Core team owns the main source code
+/quantum_core/ @oalalif
+
+# Documentation
+/docs/ @oalalif
+
+# Tests
+/tests/ @oalalif
