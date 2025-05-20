@@ -1,13 +1,13 @@
-# 🧩 PROJECT ORION: MODULE ALPHA
+# PROJECT ORION: MODULE ALPHA
 
-## ⚠️ RESTRICTED ACCESS - QUANTUM ENCRYPTION ACTIVE
+## QUANTUM SYSTEM MONITOR
 
-### 📜 QUANTUM LOGS - ENCRYPTION MODULE
+### SYSTEM LOGS - ENCRYPTED
 ```
 4e 6f 74 68 69 6e 67 20 69 73 20 61 73 20 69 74 20 73 65 65 6d 73 2e 20 43 68 65 63 6b 20 74 68 65 20 6b 65 79 62 6f 61 72 64 20 6d 6f 64 75 6c 65 2e
 ```
 
-### 🔍 SYSTEM STATUS DISPLAY
+### SYSTEM STATUS
 ```
    *     *****   *      *   *
   * *    *       *      *   *
@@ -16,7 +16,7 @@
 *     *  *****   *****  *****
 ```
 
-### 🗝️ DECRYPTION UTILITY
+### DECODING UTILITY
 ```python
 def decode_hex(secret):
     """
