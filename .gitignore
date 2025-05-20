@@ -1,0 +1,61 @@
+# System Files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Build directories
+/dist
+/build
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Debug logs (non-CTF)
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local development files
+.local-*
+
+# IDE specific files
+*.swp
+*.swo
+
+# OS generated files
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# Python cache
+*.pyc
+__pycache__/
+.pytest_cache/
+
+# Keep CTF-relevant files
+!logs/quantum_logs/simulation.log
+!logs/decoy.log
+!bin/*.exe
+!assets/*.wav
+!assets/*.png
+!project_orion/*
+!config/*
+!docs/*
